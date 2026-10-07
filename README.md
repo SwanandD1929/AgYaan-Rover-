@@ -6,7 +6,7 @@
 
 ## 🛰️ Project Overview
 
-**Apollo-X** is an autonomous planetary exploration rover developed for the **Avishkar Research Convention**. The system addresses computational and power bottlenecks of traditional single-board computer rovers by implementing an ultra-efficient, distributed **ESP32 microcontroller architecture**. 
+**AgYaan** is an autonomous planetary exploration rover developed for the **Avishkar Research Convention**. The system addresses computational and power bottlenecks of traditional single-board computer rovers by implementing an ultra-efficient, distributed **ESP32 microcontroller architecture**. 
 
 Taking inspiration from ISRO's *Pragyan* rover (Chandrayaan-3), which utilized stereoscopic vision for Earth-evaluated 2D path planning, Apollo-X advances this capability by generating an **onboard real-time 3D surface hazard and obstacle scan model**. 
 
